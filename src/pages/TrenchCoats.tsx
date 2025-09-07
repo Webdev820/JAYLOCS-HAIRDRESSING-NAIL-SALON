@@ -322,7 +322,6 @@ const TrenchCoats: React.FC = () => {
         </div>
       </div>
 
-      {/* Info Section */}
       <div className="bg-gradient-to-r from-purple-50 to-pink-50 py-16">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
